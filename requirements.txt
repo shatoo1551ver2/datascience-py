@@ -1,3 +1,20 @@
--r requirements-dev.txt
+environ
 gunicorn
 psycopg2
+django-environ
+django
+django-cleanup 
+django-pandas
+csv-download
+bootstrap4
+django-bootstrap4
+matplotlib
+seaborn
+scipy
+cython
+statsmodels  
+sklearn
+scikit-learn
+# statsmodels.api
+# scipy.stats
+# sklearn.neighbors
